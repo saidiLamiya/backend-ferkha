@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Lamiya
+Build-Jdk: 15.0.2
+Implementation-Title: ensa-back
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.backend
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ensa-back
+Created-By: Maven Integration for Eclipse
+

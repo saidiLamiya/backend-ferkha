@@ -1,0 +1,10 @@
+2020-06-27 19:52:37,109 INFO com.backend.EnsaBackApplication [main] Starting EnsaBackApplication on DESKTOP-ADCT58V with PID 29460 (C:\Users\DELL\eclipse-workspace\ensa-back\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\ensa-back)
+2020-06-27 19:52:37,111 DEBUG com.backend.EnsaBackApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-27 19:52:37,111 INFO com.backend.EnsaBackApplication [main] No active profile set, falling back to default profiles: default
+2020-06-27 19:52:44,729 INFO com.backend.EnsaBackApplication [main] Started EnsaBackApplication in 8.034 seconds (JVM running for 8.617)
+2020-06-27 20:43:31,477 INFO com.backend.EnsaBackApplication [main] Starting EnsaBackApplication on DESKTOP-ADCT58V with PID 28228 (C:\Users\DELL\eclipse-workspace\ensa-back\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\ensa-back)
+2020-06-27 20:43:31,480 DEBUG com.backend.EnsaBackApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-27 20:43:31,480 INFO com.backend.EnsaBackApplication [main] No active profile set, falling back to default profiles: default
+2020-06-27 20:43:38,240 INFO com.backend.EnsaBackApplication [main] Started EnsaBackApplication in 7.125 seconds (JVM running for 7.645)
+2020-06-27 20:56:00,507 DEBUG com.backend.services.OperateurService [http-nio-8081-exec-1] L'agent ATLAS Abdelghafour ayant le Username atlass a créé l'opérateur avec le username sahar
+2020-06-27 20:57:14,340 DEBUG com.backend.services.CompteService [http-nio-8081-exec-6] L'agent ATLAS Abdelghafour ayant le Username atlass a créé le compte: 46994893791575015489 au client avec le Username sahar

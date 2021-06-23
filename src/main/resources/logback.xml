@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<timestamp key="year" datePattern="yyyy" />
+    <timestamp key="month" datePattern="MM" />
+    <timestamp key="day" datePattern="dd" />
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logging/logInfos.${year}-${month}-${day}.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>/logging/archive/ebanking.log.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <maxFileSize>10MB</maxFileSize>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%d %p %c{1.} [%t] %m%n</pattern>
+        </encoder>
+    </appender>
+    <logger name="com.backend" level="debug" additivity="false">
+        <appender-ref ref="FILE"/>
+    </logger>
+    <root level="error">
+        <appender-ref ref="FILE"/>
+    </root>
+</configuration>

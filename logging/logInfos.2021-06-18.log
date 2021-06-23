@@ -1,0 +1,21 @@
+2021-06-18 19:39:32,891 INFO com.backend.EnsaBackApplication [main] Starting EnsaBackApplication on DESKTOP-KM1RLLB with PID 14188 (D:\Downloads\installation\backend_ebanking-master\backend_ebanking-master\target\classes started by Lamiya in D:\Downloads\installation\backend_ebanking-master\backend_ebanking-master)
+2021-06-18 19:39:32,894 DEBUG com.backend.EnsaBackApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-06-18 19:39:32,894 INFO com.backend.EnsaBackApplication [main] No active profile set, falling back to default profiles: default
+2021-06-18 19:39:40,451 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
+2021-06-18 19:40:05,918 INFO com.backend.EnsaBackApplication [main] Starting EnsaBackApplication on DESKTOP-KM1RLLB with PID 5884 (D:\Downloads\installation\backend_ebanking-master\backend_ebanking-master\target\classes started by Lamiya in D:\Downloads\installation\backend_ebanking-master\backend_ebanking-master)
+2021-06-18 19:40:05,921 DEBUG com.backend.EnsaBackApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-06-18 19:40:05,922 INFO com.backend.EnsaBackApplication [main] No active profile set, falling back to default profiles: default
+2021-06-18 19:40:13,195 INFO com.backend.EnsaBackApplication [main] Started EnsaBackApplication in 7.815 seconds (JVM running for 8.542)

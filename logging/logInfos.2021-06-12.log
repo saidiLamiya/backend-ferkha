@@ -1,0 +1,4 @@
+2021-06-12 16:43:42,077 INFO com.backend.EnsaBackApplication [main] Starting EnsaBackApplication on DESKTOP-DLT0LTB with PID 6576 (C:\Users\FacilOrdi\Desktop\projet e-banking\ebanking-backend-main\target\classes started by FacilOrdi in C:\Users\FacilOrdi\Desktop\projet e-banking\ebanking-backend-main)
+2021-06-12 16:43:42,083 DEBUG com.backend.EnsaBackApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-06-12 16:43:42,084 INFO com.backend.EnsaBackApplication [main] No active profile set, falling back to default profiles: default
+2021-06-12 16:44:47,706 INFO com.backend.EnsaBackApplication [main] Started EnsaBackApplication in 71.125 seconds (JVM running for 74.234)

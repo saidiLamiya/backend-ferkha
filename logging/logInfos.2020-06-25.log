@@ -1,0 +1,4 @@
+2020-06-25 19:59:47,510 INFO com.backend.EnsaBackApplication [main] Starting EnsaBackApplication on DESKTOP-ADCT58V with PID 20216 (C:\Users\DELL\eclipse-workspace\ensa-back\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\ensa-back)
+2020-06-25 19:59:47,513 DEBUG com.backend.EnsaBackApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-06-25 19:59:47,514 INFO com.backend.EnsaBackApplication [main] No active profile set, falling back to default profiles: default
+2020-06-25 19:59:54,420 INFO com.backend.EnsaBackApplication [main] Started EnsaBackApplication in 7.26 seconds (JVM running for 7.91)

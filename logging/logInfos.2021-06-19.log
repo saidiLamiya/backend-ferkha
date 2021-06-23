@@ -1,0 +1,12 @@
+2021-06-19 13:28:00,510 INFO com.backend.EnsaBackApplication [main] Starting EnsaBackApplication on DESKTOP-KM1RLLB with PID 4640 (D:\Downloads\installation\backend_ebanking-master\backend_ebanking-master\target\classes started by Lamiya in D:\Downloads\installation\backend_ebanking-master\backend_ebanking-master)
+2021-06-19 13:28:00,516 DEBUG com.backend.EnsaBackApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-06-19 13:28:00,517 INFO com.backend.EnsaBackApplication [main] No active profile set, falling back to default profiles: default
+2021-06-19 13:28:10,654 INFO com.backend.EnsaBackApplication [main] Started EnsaBackApplication in 11.14 seconds (JVM running for 12.695)
+2021-06-19 13:34:37,491 INFO com.backend.EnsaBackApplication [main] Starting EnsaBackApplication on DESKTOP-KM1RLLB with PID 12364 (D:\Downloads\installation\backend_ebanking-master\backend_ebanking-master\target\classes started by Lamiya in D:\Downloads\installation\backend_ebanking-master\backend_ebanking-master)
+2021-06-19 13:34:37,495 DEBUG com.backend.EnsaBackApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-06-19 13:34:37,497 INFO com.backend.EnsaBackApplication [main] No active profile set, falling back to default profiles: default
+2021-06-19 13:34:46,648 INFO com.backend.EnsaBackApplication [main] Started EnsaBackApplication in 9.844 seconds (JVM running for 10.771)
+2021-06-19 13:36:10,844 INFO com.backend.EnsaBackApplication [main] Starting EnsaBackApplication on DESKTOP-KM1RLLB with PID 11228 (D:\Downloads\installation\backend_ebanking-master\backend_ebanking-master\target\classes started by Lamiya in D:\Downloads\installation\backend_ebanking-master\backend_ebanking-master)
+2021-06-19 13:36:10,847 DEBUG com.backend.EnsaBackApplication [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-06-19 13:36:10,847 INFO com.backend.EnsaBackApplication [main] No active profile set, falling back to default profiles: default
+2021-06-19 13:36:19,670 INFO com.backend.EnsaBackApplication [main] Started EnsaBackApplication in 9.483 seconds (JVM running for 10.443)
